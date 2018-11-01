@@ -1,0 +1,52 @@
+.form1 {
+    margin-top: 10px;
+    width: 40%;
+}
+
+.list1 {
+    padding-left: 0;
+    list-style-type: none;
+}
+    
+.list1 li {
+    padding: 5px;
+}
+
+.list2 {
+    padding-left: 0;
+    list-style-type: none;
+}
+
+.list2 textarea {
+    padding-bottom: 10px;   
+}
+
+.list3 {
+    padding-left: 0;
+    list-style-type: none;
+}
+
+.hidden {
+    display: none;
+}
+
+.span {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.span-italic {
+    font-style: italic;
+    font-size: 1em;
+    padding-bottom: 10px;
+}
+
+.text-size {
+    margin-bottom: 10px;
+    width: 300px;
+}
+
+fieldset {
+    margin: 15px;
+}
